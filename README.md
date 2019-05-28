@@ -1,5 +1,5 @@
 # Análisis de textos y Humanidades Digitales
-Repositorio con recursos para el módulo sobre Análisis de textos usando R y Humanidades Digitales del [Diplomado en Visualización de Datos UC](https://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/).
+Repositorio con materiales del módulo sobre Análisis de textos usando R y Humanidades Digitales del [Diplomado en Visualización de Datos UC](https://diseno.uc.cl/curso/diplomado-en-visualizacion-de-datos/), versión 2019. Módulo a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga).
 
 ## Preparación: instalación de R y RStudio
 
@@ -12,7 +12,7 @@ Para poder instalar R y RStudio, sigue los siguientes pasos:
 - Una vez que R ha quedado correctamente instalado, descarga RStudio desde https://www.rstudio.com/products/rstudio/download/. Elige la primera opción, es decir, "RStudio Desktop Open Source License" (gratuita).
 - Instala RStudio en tu computador, tal como lo haces con cualquier programa.
 
-Si quedó todo bien instalado, cuando abras RStudio deberías ver algo así (aunque debería decir que es la versión 3.6 de R):
+Si quedó todo bien instalado, cuando abras RStudio verás algo así (aunque debería decir que es la versión 3.6 de R):
 
 ![](https://github.com/rivaquiroga/RLadies-Santiago/blob/master/images/rstudio.png)
 
