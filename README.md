@@ -3,7 +3,7 @@ Repositorio con materiales del módulo sobre Análisis de textos usando R y Huma
 
 ## Preparación: instalación de R y RStudio
 
-En este tutorial utilizaremos R a través del IDE RStudio. IDE es el acrónimo de *Integrated Development Environment* (*Entorno de Desarrollo Integrado*). Esto quiere decir que RStudio es una aplicación que nos entrega herramientas para hacer más fácil el desarrollo de proyectos usando R.
+En este módulo utilizaremos R a través del IDE RStudio. IDE es el acrónimo de *Integrated Development Environment* (*Entorno de Desarrollo Integrado*). Esto quiere decir que RStudio es una aplicación que nos entrega herramientas para hacer más fácil el desarrollo de proyectos usando R.
 
 Para poder instalar R y RStudio, sigue los siguientes pasos:
 
