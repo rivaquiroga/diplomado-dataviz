@@ -46,10 +46,23 @@ install.packages("tidyverse")
 Algunos paquetes son más grandes que otros, por lo que pueden demorar un poco más de tiempo en instalarse.
 
 ## Clase 1
-[pronto]
+
+* __Materiales:__
+* __Código en vivo:__
+
+#### Otros recursos para seguir profundizando:
 
 ## Clase 2
-[pronto]
+
+* __Materiales:__
+* __Código en vivo:__
+
+#### Otros recursos para seguir profundizando:
 
 ## Clase 3
-[pronto]
+
+
+* __Materiales:__
+* __Código en vivo:__
+
+#### Otros recursos para seguir profundizando:
