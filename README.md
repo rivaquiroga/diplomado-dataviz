@@ -47,8 +47,8 @@ Algunos paquetes son más grandes que otros, por lo que pueden demorar un poco m
 
 ## Clase 1
 
-* __Materiales:__
-* __Código en vivo:__
+* __Materiales:__ http://bit.ly/dataviz2019-materiales-clase1
+* __Código en vivo:__ http://bit.ly/dataviz2019-codigo-clase1
 
 #### Otros recursos para seguir profundizando:
 
