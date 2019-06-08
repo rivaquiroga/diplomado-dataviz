@@ -52,11 +52,13 @@ Algunos paquetes son más grandes que otros, por lo que pueden demorar un poco m
 * __Código en vivo:__ http://bit.ly/dataviz2019-codigo-clase1
 
 #### Otros recursos para seguir profundizando:
+* Documentación paquete [`quanteda`](quanteda.io)
+* Documentación paquete [`wordcloud2`](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
 
 ## Clase 2
 
-* __Materiales:__
-* __Código en vivo:__
+* __Materiales:__ http://bit.ly/dataviz2019-materiales-clase2
+* __Código en vivo:__ http://bit.ly/dataviz2019-codigo-clase2
 
 #### Otros recursos para seguir profundizando:
 
